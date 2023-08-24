@@ -1,2 +1,13 @@
+Botium Toys: Audit scope and goals 
 
-I am a dedicated cybersecurity professional with a strong foundation in analytical thinking, effective collaboration, and rapid skill development. My commitment to upholding the highest ethical standards underscores my value of ensuring data integrity, and privacy and promoting transparent and accountable cyber practices. What fascinates me most about the cybersecurity field is its ever-evolving nature and its pivotal role in safeguarding digital landscapes. I am deeply motivated by the constant innovation and the opportunity to contribute to creating secure digital environments. My passion for cybersecurity, coupled with my strengths in problem-solving and collaboration, aligns seamlessly with organizations seeking to bolster their security measures. I am eager to leverage these qualities to drive proactive cybersecurity strategies, identify vulnerabilities, and ensure a resilient digital future while fostering an atmosphere of integrity and innovation.
+An audit of Botium Toys’ cybersecurity program was performed. The audit needed to align with current business practices with industry standards and best practices.
+
+1.	What are the biggest risk to the organization? 
+--- a.	Botium Toys does not have the proper controls. 
+--- b.	Not compliant to the U.S. and international regulations and standards
+2.	Which controls are most essential to implement immediately versus in the future?
+--- a.	Immediately: Administrative & Technical
+--- b.	Future: Physical 
+3.	Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fine, etc?
+--- a.	GDPR, PCI DSS, SOC1 & SOC2
+
